@@ -29,3 +29,9 @@ There are some cities which are appealing and must visit before it's too late. I
 | Hyderabad | Charminar | 3 hours |
 | Goa | Calangute Beach | 6 hours |
 | Lonavala | Lohagad Fort | 6 hours |
+
+>The greatest glory in living lies not in never falling, but in rising every time we fall. -*Nelson Mandela*
+
+>Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -*Steve Jobs*
+
+>Life is what happens when you're busy making other plans. -*John Lennon*
