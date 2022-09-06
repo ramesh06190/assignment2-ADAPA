@@ -42,8 +42,10 @@ There are some cities which are appealing and must visit before it's too late. I
 ******
 
 ## Code Snippet
->I was trying to use SVGs to animate the logo for my personal website, but it's not working entirely as expected. In my CSS, I used stroke-dasharray and stroke-dashoffset to animate the SVG. But as you can see in the picture below, it's not "completing" the path and finishing outlining the logo.
-Source: [Refer StackoverFlow Article](https://stackoverflow.com/questions/73612643/svg-not-fully-animating)
+>how to create a responsive menu(Hamburger menu)
+>
+Source: [Refer StackoverFlow Article](https://stackoverflow.com/questions/36310655/how-to-create-a-responsive-menuhamburger-menu)
+
 ```
 <svg viewBox="0 0 100 80" width="40" height="40">
   <rect width="100" height="20"></rect>
