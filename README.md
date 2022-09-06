@@ -5,4 +5,8 @@ One of the largest museums of **India**, National Museum has diverse articles fr
 *****
 
 ## Directions to reach the Museum
-Indira Gandhi International Airport is closest to the National Museum Delhi. Steps to reach National Museum Delhi from Delhi International Airport. Firstly Walk towards Police Colony Mehram Nagar Metro station and board on to a City bus at I.S.B.T. Kashmere Gate and get down at Sardar Patel Marg from there catch another city bus that travels to Le Meridian Hotel and from there you can find National Museum at about 1 kilometer from there.
+Indira Gandhi International Airport is closest to the National Museum Delhi. Steps to reach National Museum Delhi from Delhi International Airport. 
+1. Firstly Walk towards Police Colony Mehram Nagar Bus stop.
+2. Next board on to a City bus at I.S.B.T. Kashmere Gate. 
+3. Then get down at Sardar Patel Marg from there catch another city bus that travels to Le Meridian Hotel.
+4. From there you can find National Museum at about 1 kilometer.
