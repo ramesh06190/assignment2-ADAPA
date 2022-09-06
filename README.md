@@ -23,7 +23,7 @@ Famous Places that are around the museum which are highly recommended and worth 
 
 ## Must Visit Cities
 There are some cities which are appealing and must visit before it's too late. I am going to list a few of them so that you never miss on them.
-| Name of the City | Location to visit in the City | Amount of time to spend |
+| City | Location | Amount of time |
 | --- | --- | --- |
 | Vizag | RK Beach | 4 hours |
 | Hyderabad | Charminar | 3 hours |
