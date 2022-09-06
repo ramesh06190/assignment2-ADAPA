@@ -17,5 +17,15 @@ Famous Places that are around the museum which are highly recommended and worth 
 * Humayun's Tomb
 * Jantar Mantar
 
-
 [Click here to go to the AboutMe](AboutMe.md)
+
+*****
+
+## Must Visit Cities
+There are some cities which are appealing and must visit before it's too late. I am going to list a few of them so that you never miss on them.
+| Name of the City | Location to visit in the City | Amount of time to spend |
+| --- | --- | --- |
+| Vizag | RK Beach | 4 hours |
+| Hyderabad | Charminar | 3 hours |
+| Goa | Calangute Beach | 6 hours |
+| Lonavala | Lohagad Fort | 6 hours |
