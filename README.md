@@ -38,3 +38,17 @@ There are some cities which are appealing and must visit before it's too late. I
 >Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -*Steve Jobs*
 
 >Life is what happens when you're busy making other plans. -*John Lennon*
+
+******
+
+## Code Snippet
+>I was trying to use SVGs to animate the logo for my personal website, but it's not working entirely as expected. In my CSS, I used stroke-dasharray and stroke-dashoffset to animate the SVG. But as you can see in the picture below, it's not "completing" the path and finishing outlining the logo.
+Source: [Refer StackoverFlow Article](https://stackoverflow.com/questions/73612643/svg-not-fully-animating)
+```
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg>
+```
+Snippet Source: [Refer CSS tricks](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)
